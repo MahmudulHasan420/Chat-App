@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.regimg{
+  height: 100vh;
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+.regHeading{
+  font-size: 34px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+}
+
+.regFrom{
+  width: 500px;
+  margin-top: 225px;
+  margin-left: auto;
+  padding-right: 70px;
+}
+.regPera{
+  font-size: 20px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+  margin-top: 13px;
+
+}
+.regsinin{
+  width: 75%;
+  font-size: 14px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+  margin-top: 34px;
+  text-align: center;
+}
+.regsinin span{
+  font-size: 14px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  margin-top: 13px;
+  color :#EA6C00;
+  
+}
